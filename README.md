@@ -1,9 +1,9 @@
 # scoreboard-BlueOS
-适用于BlueOS手表的计分板电子木鱼应用
+适用于BlueOS手表的计分板应用
 ## 适配说明(理论上)
  - 适用于 `BlueOS 1.0` 及以上系统
  - 完美适配 `vivo WATCH 3`
- - `vivo WATCH GT` 但存在部分界面显示异常的问题，日期选择器目前完全不可用
+ - `vivo WATCH GT` 可以使用，但存在部分界面显示异常的问题
 ## 运行图片
 <div>
  <img src="/capture/capture0.png" width="150">
